@@ -3,3 +3,4 @@
 2. A Script that diplays content of a file
 3. A Script that displays content of two files
 4. A Script that dislays the last ten lines of a file
+5. A Script that displays the first ten lines of a file
